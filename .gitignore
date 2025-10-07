@@ -1,4 +1,13 @@
 node_modules/
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Vim swap files
+*.swp
 .env
 .DS_Store
 dist/
